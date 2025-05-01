@@ -139,7 +139,11 @@ Unfortunately, **John the Ripper** proves ineffective in cracking the hashes at 
 
 Despite many privilege escalation attempts using `sudo cat`, no clear path is found. On further research, we locate a writeup of this machine on [VulnHub](https://www.vulnhub.com/entry/skytower-1,96/), which hints that the flag is located in the `/root` directory.
 
+![image](https://github.com/user-attachments/assets/51936a6f-1bd9-4971-897e-3ddc9031b74c)
+
 After several combinations and attempts, we finally succeed in obtaining the password-protected flag file and capture it.
+
+![image](https://github.com/user-attachments/assets/6c2e4bf4-87a1-4504-b3e4-05735fba6845)
 
 ---
 
