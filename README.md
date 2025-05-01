@@ -88,19 +88,19 @@ mysql -uroot -proot
 
 ![image](https://github.com/user-attachments/assets/a069e5b4-9de0-4f21-827f-0261de2b9f89)
 
-```bash
+```sql
 show databases
 ```
 
 ![image](https://github.com/user-attachments/assets/205d2ad3-c17f-45ae-99f8-2333ad97d81f)
 
-```bash
+```sql
 use SktTech
 ```
 
 ![image](https://github.com/user-attachments/assets/ccd6c80c-047b-47dd-bbde-b1e4336c8313)
 
-```bash
+```sql
 select * from login
 ```
 
